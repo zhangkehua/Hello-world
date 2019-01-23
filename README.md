@@ -1,4 +1,2 @@
-# Hello-world
-初次使用GitHub
-第一次学习使用github
-真的很有意思呢
+# 深度学习与计算机视觉（Python语言）
+深度学习与计算机视觉（Python语言）
